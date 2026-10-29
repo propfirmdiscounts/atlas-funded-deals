@@ -76,7 +76,7 @@ Total deals tracked: **39**
 | Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
 | 2024-12-25 | 60% Off All Evaluations This Christmas | 60% off | Ended | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-60-off-evaluations-christmas/) |
-| 2024-12-22 | BOGO + 150% Fee Refund on Evaluations | N/A | Ended | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-bogo-150-refund-evaluations/) |
+| 2024-12-22 | BOGO + 150% Fee Refund on Evaluations | Buy 1 Get 1 | Ended | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-bogo-150-refund-evaluations/) |
 | 2024-12-19 | December Offer Cuts Any Account Size By 75% | 75% off | Ended | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-75-off-any-account-december-offer/) |
 | 2024-12-09 | Flash Sale: 40% Off Evaluation Accounts | 40% off | Ended | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-evaluation-accounts-flash-sale/) |
 | 2024-12-02 | Cyber Monday Cut: 50% Off Evaluation Accounts | 50% off | Ended | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-50-off-evaluations-cyber-monday/) |
@@ -95,7 +95,7 @@ This repository tracks all historical deals for **Atlas Funded** published on Pr
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T09:04:22Z (auto, hourly)
+Last synced: 2026-10-29T12:46:00Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
