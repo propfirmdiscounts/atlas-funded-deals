@@ -1,45 +1,67 @@
 ---
 license: other
+pretty_name: Atlas Funded Discount Code
 configs:
 - config_name: atlas-funded-deals
   data_files:
   - split: data
     path: datasets/atlas-funded-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - atlas-funded
 ---
 
-# Atlas Funded - Discount Codes & Deal History
+# Atlas Funded Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+The verified Atlas Funded discount code is **PFD** — Up to 50% off, works any time.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/atlas-funded/
+> At Atlas Funded, we provide a platform where skilled, disciplined traders can transform talent into long-term opportunity. Our mission is simple: to fund the next generation of smart, strategic traders — and to do it with transparency, accountability, and real support.
+> We believe trading success isn’t just about strategy — it’s about access. That’s why we offer capital to traders who prove they can manage risk, maintain consistency, and perform under pressure. Whether you're a short-term scalper or a swing trader with a long view, Atlas Funded gives you the structure to grow and the capital to scale.
+> Our programs are designed with real traders in mind — no gimmicks, no hidden rules, just a clear path to payouts and progression. From our fair challenge models to fast scaling plans, we’re here to reward performance, not perfection.
+> Join a global community of focused, funded traders who are rewriting what’s possible. With Atlas Funded behind you, you’re not just taking trades — you're building a future.
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-26
+- Trustpilot: 3.9/5 (2064 reviews)
+- Activate: https://propfirmdiscount.com/go/atlasfunded
+- Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **50% off** on Atlas Funded challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Atlas Funded evaluation accounts.
+## Current Atlas Funded deal: Halloween cashback deal cuts 45% off evaluations
+
+- Published: 2026-10-26
+- Offer ends: Limited time
+- Offer: 45% off
+- Scope: Challenges, Evaluations, Atlas Balance Cashback, Second Reward Fee Back
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/
+
+## Atlas Funded discount code FAQ
+
+**What is the Atlas Funded discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off Atlas Funded challenges and accounts.
+
+**Does the Atlas Funded discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Atlas Funded deal?**
+
+**Halloween cashback deal cuts 45% off evaluations** — published 2026-10-26. Offer ends: Limited time. The offer is 45% off.
 
 ---
 
-## Latest Deal
-
-### Atlas Funded - Halloween cashback deal cuts 45% off evaluations
-
-**Published:** 2026-10-26  
-**Offer ends:** Limited time  
-**Discount:** 45% off  
-**Scope:** Challenges, Evaluations, Atlas Balance Cashback, Second Reward Fee Back  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **39**
 
@@ -99,19 +121,20 @@ Total deals tracked: **39**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Atlas Funded** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Atlas Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/atlas-funded/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/atlas-funded/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
