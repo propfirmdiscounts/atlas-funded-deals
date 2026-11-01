@@ -19,7 +19,7 @@ tags:
 
 # Atlas Funded Discount Code
 
-As of 2026-10-26, the verified Atlas Funded discount code is **PFD** — up to 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-26, the verified Atlas Funded discount code is PFD — up to 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > At Atlas Funded, we provide a platform where skilled, disciplined traders can transform talent into long-term opportunity. Our mission is simple: to fund the next generation of smart, strategic traders — and to do it with transparency, accountability, and real support.
 > We believe trading success isn’t just about strategy — it’s about access. That’s why we offer capital to traders who prove they can manage risk, maintain consistency, and perform under pressure. Whether you're a short-term scalper or a swing trader with a long view, Atlas Funded gives you the structure to grow and the capital to scale.
