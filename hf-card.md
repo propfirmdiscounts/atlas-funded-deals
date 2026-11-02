@@ -19,13 +19,13 @@ tags:
 
 # Atlas Funded Discount Code
 
-As of 2026-10-26, the verified Atlas Funded discount code is PFD — up to 50% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-02, the verified Atlas Funded discount code is PFD — up to 40% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: PFD
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 40% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-26
-- Trustpilot: 3.9/5 (2064 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 3.9/5 (2084 reviews)
 - Activate: https://propfirmdiscount.com/go/atlasfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
@@ -45,7 +45,7 @@ As of 2026-10-26, the verified Atlas Funded discount code is PFD — up to 50% O
 
 **What is the Atlas Funded discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 50% off Atlas Funded challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 40% off Atlas Funded challenges and accounts.
 
 **Does the Atlas Funded discount code expire?**
 
