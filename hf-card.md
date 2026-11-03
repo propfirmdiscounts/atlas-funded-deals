@@ -31,15 +31,14 @@ As of 2026-11-02, the verified Atlas Funded discount code is PFD — up to 40% O
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Atlas Funded deal: Halloween cashback deal cuts 45% off evaluations
+## Current Atlas Funded deal: 40% off Futures evaluations in November
 
-- Published: 2026-10-26
-- Offer ends: Limited time
-- Offer: 45% off
-- Event: Halloween
-- Scope: Challenges, Evaluations, Atlas Balance Cashback, Second Reward Fee Back
+- Published: 2026-11-02
+- Offer ends: 2026-11-09
+- Offer: 40% off
+- Scope: Futures Evaluations, On The Tradara Platform
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/
+- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/
 
 ## Atlas Funded discount code FAQ
 
@@ -53,18 +52,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Atlas Funded deal?**
 
-**Halloween cashback deal cuts 45% off evaluations** — published 2026-10-26. Offer ends: Limited time. The offer is 45% off.
+**40% off Futures evaluations in November** — published 2026-11-02. Offer ends: 2026-11-09. The offer is 40% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **39**
+Total deals tracked: **40**
 
-### 2026 (14 deals)
+### 2026 (15 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | 40% off Futures evaluations in November | 40% off | 2026-11-09 | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) |
 | 2026-10-26 | Halloween cashback deal cuts 45% off evaluations | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) |
 | 2026-10-21 | Halloween Cut of 45% Across All Challenges | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) |
 | 2026-10-15 | 40% Off Challenges With Doubled Rewards - Halloween | 40% off | 2026-10-18 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) |

@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13092,
+    "title": "40% off Futures evaluations in November",
+    "offer_type": "coupon",
+    "discount_value": "40%",
+    "scope": [
+      "Futures Evaluations, On The Tradara Platform"
+    ],
+    "date_published": "2026-11-02",
+    "date_exp": "2026-11-09",
+    "event": null,
+    "last_verified": "2026-11-02",
+    "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/",
+    "prop_firm": "Atlas Funded",
+    "prop_firm_slug": "atlas-funded",
+    "standing_code": "PFD",
+    "standing_discount": "40%",
+    "activation_link": "https://propfirmdiscount.com/go/atlasfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/atlas-funded/"
+  },
+  {
     "deal_id": 13030,
     "title": "Halloween cashback deal cuts 45% off evaluations",
     "offer_type": "coupon",
