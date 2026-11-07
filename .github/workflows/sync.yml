@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: atlas-funded-discount-codes
+  HF_NAMESPACE: atlasfunded
+  HF_REPO_NAME: atlas-funded-deals
   FIRM_SLUG: atlas-funded
   DEALSTORE_ID: 2861
   FIRM_NAME: Atlas Funded
