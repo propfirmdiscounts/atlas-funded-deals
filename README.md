@@ -56,7 +56,7 @@ Total deals tracked: **40**
 | 2026-10-26 | Halloween cashback deal cuts 45% off evaluations | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) |
 | 2026-10-21 | Halloween Cut of 45% Across All Challenges | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) |
 | 2026-10-15 | 40% Off Challenges With Doubled Rewards - Halloween | 40% off | 2026-10-18 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) |
-| 2026-10-07 | 45% Off All Account Sizes With 125% Fee Back | 45% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) |
+| 2026-10-07 | 45% Off All Account Sizes With 125% Fee Back | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) |
 | 2026-09-26 | 35% Off Any Challenge - September Close Offer | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-35-off-any-challenge-september-close/) |
 | 2026-09-19 | 40% Off Challenges Plus a Free Reset This Weekend | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-free-reset/) |
 | 2026-09-01 | 35% Off Challenges in the September Promo | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-35-off-challenges-september-promo/) |
