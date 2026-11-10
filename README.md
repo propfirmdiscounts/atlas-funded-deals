@@ -22,7 +22,7 @@ As of 2026-11-02, the verified Atlas Funded discount code is PFD — up to 40% O
 ## Current Atlas Funded deal: 40% off Futures evaluations in November
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-09
+- Offer ends: 2026-11-09 (ended)
 - Offer: 40% off
 - Scope: Futures Evaluations, On The Tradara Platform
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
@@ -40,7 +40,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Atlas Funded deal?**
 
-**40% off Futures evaluations in November** — published 2026-11-02. Offer ends: 2026-11-09. The offer is 40% off.
+**40% off Futures evaluations in November** — published 2026-11-02. Offer ends: 2026-11-09 (ended). The offer is 40% off.
 
 ---
 
@@ -52,7 +52,7 @@ Total deals tracked: **40**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-02 | 40% off Futures evaluations in November | 40% off | 2026-11-09 | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) |
+| 2026-11-02 | 40% off Futures evaluations in November | 40% off | 2026-11-09 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) |
 | 2026-10-26 | Halloween cashback deal cuts 45% off evaluations | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) |
 | 2026-10-21 | Halloween Cut of 45% Across All Challenges | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) |
 | 2026-10-15 | 40% Off Challenges With Doubled Rewards - Halloween | 40% off | 2026-10-18 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) |
