@@ -13,11 +13,12 @@ As of 2026-11, the verified Atlas Funded discount code is PFD — 50% OFF, works
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-10
-- Trustpilot: 3.9/5 (2151 reviews)
-- Activate: https://propfirmdiscount.com/go/atlasfunded
-- Firm page: https://propfirmdiscount.com/prop-firm/atlas-funded/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.9/5 (2151 reviews)](https://www.trustpilot.com/review/atlasfunded.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/atlas-funded-deals](https://github.com/propfirmdiscounts/atlas-funded-deals)
+- Activate: [https://propfirmdiscount.com/go/atlasfunded](https://propfirmdiscount.com/go/atlasfunded)
+- Firm page: [https://propfirmdiscount.com/prop-firm/atlas-funded/](https://propfirmdiscount.com/prop-firm/atlas-funded/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Atlas Funded deal: 40% Off Evaluations From $25.80
 
@@ -26,7 +27,7 @@ As of 2026-11, the verified Atlas Funded discount code is PFD — 50% OFF, works
 - Offer: 40% off
 - Scope: Evaluations, 2 Step, Instant Zero, Instant Funded
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/
+- Deal page: [https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/)
 
 ## Atlas Funded discount code FAQ
 
@@ -110,9 +111,9 @@ Total deals tracked: **41**
 
 This repository mirrors every deal **Atlas Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/atlas-funded/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/atlas-funded/](https://propfirmdiscount.com/prop-firm/atlas-funded/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/atlas-funded-deals.json`
 
