@@ -1,6 +1,6 @@
 # Atlas Funded - Discount Codes & Deal History
 
-As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "40% Off Evaluations From $25.80".
 
 > At Atlas Funded, we provide a platform where skilled, disciplined traders can transform talent into long-term opportunity. Our mission is simple: to fund the next generation of smart, strategic traders — and to do it with transparency, accountability, and real support.
 > We believe trading success isn’t just about strategy — it’s about access. That’s why we offer capital to traders who prove they can manage risk, maintain consistency, and perform under pressure. Whether you're a short-term scalper or a swing trader with a long view, Atlas Funded gives you the structure to grow and the capital to scale.
@@ -14,11 +14,11 @@ As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF,
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-10
 - Trustpilot: [3.9/5 (2151 reviews)](https://www.trustpilot.com/review/atlasfunded.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/atlas-funded-deals](https://github.com/propfirmdiscounts/atlas-funded-deals)
-- Activate: [https://propfirmdiscount.com/go/atlasfunded](https://propfirmdiscount.com/go/atlasfunded)
-- Firm page: [https://propfirmdiscount.com/prop-firm/atlas-funded/](https://propfirmdiscount.com/prop-firm/atlas-funded/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Atlas Funded Deals Repository](https://github.com/propfirmdiscounts/atlas-funded-deals)
+- Activate: [Activate Atlas Funded Discount Code](https://propfirmdiscount.com/go/atlasfunded)
+- Firm page: [Atlas Funded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/atlas-funded/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Atlas Funded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Atlas Funded deal: 40% Off Evaluations From $25.80
 
@@ -27,7 +27,7 @@ As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF,
 - Offer: 40% off
 - Scope: Evaluations, 2 Step, Instant Zero, Instant Funded
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/)
+- Deal page: [Atlas Funded Deal Page](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/)
 
 ## Atlas Funded discount code FAQ
 
@@ -111,9 +111,9 @@ Total deals tracked: **41**
 
 This repository mirrors every deal **Atlas Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/atlas-funded/](https://propfirmdiscount.com/prop-firm/atlas-funded/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Atlas Funded Profile](https://propfirmdiscount.com/prop-firm/atlas-funded/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/atlas-funded-deals.json`
 
@@ -156,4 +156,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
