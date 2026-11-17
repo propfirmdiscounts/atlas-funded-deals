@@ -1,4 +1,4 @@
-# Atlas Funded Discount Codes
+# Atlas Funded Discount Code & Deals History
 
 This dataset tracks historical deal observations for Atlas Funded from PropFirmDiscount.com.
 

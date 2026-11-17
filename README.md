@@ -1,4 +1,4 @@
-# Atlas Funded Discount Code & Deal History
+# Atlas Funded Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "40% Off Evaluations From $25.80".
 
@@ -14,7 +14,7 @@ As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF,
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-10
 - Trustpilot: [3.9/5 (2194 reviews)](https://www.trustpilot.com/review/atlasfunded.com)
-- GitHub repository: [Atlas Funded Deals Repository](https://github.com/propfirmdiscounts/atlas-funded-deals)
+- GitHub repository: [Atlas Funded Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/atlas-funded-deals)
 - Activate: [Activate Atlas Funded Discount Code](https://propfirmdiscount.com/go/atlasfunded)
 - Firm page: [Atlas Funded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/atlas-funded/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -29,7 +29,7 @@ As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF,
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Atlas Funded Deal Page](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/)
 
-## Atlas Funded Discount Code & Deals FAQ
+## Atlas Funded Discount Code & Deals History FAQ
 
 **What is the Atlas Funded discount code?**
 
@@ -45,7 +45,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Atlas Funded Deal History
+## Atlas Funded Deals History
 
 Total deals tracked: **41**
 
@@ -107,7 +107,7 @@ Total deals tracked: **41**
 
 ---
 
-## About the Atlas Funded Deals Dataset
+## About the Atlas Funded Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Atlas Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -115,7 +115,7 @@ This repository mirrors every deal **Atlas Funded** has published on PropFirmDis
 - Prop firm profile: [Atlas Funded Profile](https://propfirmdiscount.com/prop-firm/atlas-funded/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Atlas Funded Deal Dataset: Field Definitions
+## Atlas Funded Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
