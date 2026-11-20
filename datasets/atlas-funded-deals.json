@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13319,
+    "title": "45% Off Evaluations + Back",
+    "offer_type": "coupon",
+    "discount_value": "45%",
+    "scope": [
+      "Evaluations"
+    ],
+    "date_published": "2026-11-20",
+    "date_exp": "2026-11-23",
+    "event": "Black Friday",
+    "last_verified": "2026-11-20",
+    "post_url": "https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/",
+    "prop_firm": "Atlas Funded",
+    "prop_firm_slug": "atlas-funded",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/atlasfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/atlas-funded/"
+  },
+  {
     "deal_id": 13207,
     "title": "40% Off Evaluations From $25.80",
     "offer_type": "coupon",
