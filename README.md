@@ -12,8 +12,8 @@ As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF,
 - Code: PFD
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-24
-- Trustpilot: [3.9/5 (2277 reviews)](https://www.trustpilot.com/review/atlasfunded.com)
+- Last deal published: 2026-11-27
+- Trustpilot: [3.9/5 (2325 reviews)](https://www.trustpilot.com/review/atlasfunded.com)
 - GitHub repository: [Atlas Funded Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/atlas-funded-deals)
 - Activate: [Activate Atlas Funded Discount Code](https://propfirmdiscount.com/go/atlasfunded)
 - Firm page: [Atlas Funded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/atlas-funded/)
@@ -23,7 +23,7 @@ As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF,
 ## Latest Atlas Funded deal: 45% Off Evaluations, 125% Fee Back
 
 - Published: 2026-11-24
-- Offer ends: 2026-11-26
+- Offer ends: 2026-11-26 (ended)
 - Offer: 45% off
 - Event: Black Friday
 - Scope: Evaluations, Instant Zero
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Atlas Funded deal?**
 
-**45% Off Evaluations, 125% Fee Back** — published 2026-11-24. Offer ends: 2026-11-26. The offer is 45% off.
+**45% Off Evaluations, 125% Fee Back** — published 2026-11-24. Offer ends: 2026-11-26 (ended). The offer is 45% off.
 
 ---
 
@@ -54,12 +54,12 @@ Total deals tracked: **44**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-24 | Atlas Funded: 45% Off Evaluations, 125% Fee Back | 45% off | 2026-11-26 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/) |
+| 2026-11-24 | Atlas Funded: 45% Off Evaluations, 125% Fee Back | 45% off | 2026-11-26 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/) |
 | 2026-11-22 | Atlas Funded: 40% Off Challenges Plus Fee Back | 40% off | 2026-11-23 18:59 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/) |
 | 2026-11-20 | Atlas Funded: 45% Off Evaluations + Back | 45% off | 2026-11-23 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/) |
 | 2026-11-10 | Atlas Funded: 40% Off Evaluations From $25.80 | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-november-promo-40-off-evaluations/) |
 | 2026-11-02 | Atlas Funded: 40% off Futures evaluations in November | 40% off | 2026-11-09 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-futures-evaluations-november/) |
-| 2026-10-26 | Atlas Funded: Halloween cashback deal cuts 45% off evaluations | 45% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) |
+| 2026-10-26 | Atlas Funded: Halloween cashback deal cuts 45% off evaluations | 45% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-halloween-45-off-triple-cashback/) |
 | 2026-10-21 | Atlas Funded: Halloween Cut of 45% Across All Challenges | 45% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-challenges-halloween/) |
 | 2026-10-15 | Atlas Funded: 40% Off Challenges With Doubled Rewards - Halloween | 40% off | 2026-10-18 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-40-off-challenges-october-flash/) |
 | 2026-10-07 | Atlas Funded: 45% Off All Account Sizes With 125% Fee Back | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-45-off-all-account-sizes-new-era/) |
