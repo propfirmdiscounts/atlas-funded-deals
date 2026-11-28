@@ -1,6 +1,6 @@
 # Atlas Funded Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "45% Off Evaluations, 125% Fee Back".
+As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Evaluations In 48 Hours".
 
 > At Atlas Funded, we provide a platform where skilled, disciplined traders can transform talent into long-term opportunity. Our mission is simple: to fund the next generation of smart, strategic traders — and to do it with transparency, accountability, and real support.
 > We believe trading success isn’t just about strategy — it’s about access. That’s why we offer capital to traders who prove they can manage risk, maintain consistency, and perform under pressure. Whether you're a short-term scalper or a swing trader with a long view, Atlas Funded gives you the structure to grow and the capital to scale.
@@ -20,15 +20,15 @@ As of November 2026, the verified Atlas Funded discount code is PFD — 50% OFF,
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Atlas Funded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Atlas Funded deal: 45% Off Evaluations, 125% Fee Back
+## Latest Atlas Funded deal: 55% Off Evaluations In 48 Hours
 
-- Published: 2026-11-24
-- Offer ends: 2026-11-26 (ended)
-- Offer: 45% off
+- Published: 2026-11-27
+- Offer ends: 2026-11-28
+- Offer: 55% off
 - Event: Black Friday
-- Scope: Evaluations, Instant Zero
+- Scope: Evaluations
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Atlas Funded Deal Page](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/)
+- Deal page: [Atlas Funded Deal Page](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-55-off-evaluations/)
 
 ## Atlas Funded Discount Code & Deals History FAQ
 
@@ -42,18 +42,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Atlas Funded deal?**
 
-**45% Off Evaluations, 125% Fee Back** — published 2026-11-24. Offer ends: 2026-11-26 (ended). The offer is 45% off.
+**55% Off Evaluations In 48 Hours** — published 2026-11-27. Offer ends: 2026-11-28. The offer is 55% off.
 
 ---
 
 ## Atlas Funded Deals History
 
-Total deals tracked: **44**
+Total deals tracked: **45**
 
-### 2026 (19 deals)
+### 2026 (20 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-27 | Atlas Funded: 55% Off Evaluations In 48 Hours | 55% off | 2026-11-28 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-55-off-evaluations/) |
 | 2026-11-24 | Atlas Funded: 45% Off Evaluations, 125% Fee Back | 45% off | 2026-11-26 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-week-45-off-evaluations/) |
 | 2026-11-22 | Atlas Funded: 40% Off Challenges Plus Fee Back | 40% off | 2026-11-23 18:59 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-week-40-off-challenges/) |
 | 2026-11-20 | Atlas Funded: 45% Off Evaluations + Back | 45% off | 2026-11-23 (ended) | Black Friday | [View Deal](https://propfirmdiscount.com/deals/atlas-funded/atlas-funded-black-friday-45-off-evaluations-fee-back/) |
